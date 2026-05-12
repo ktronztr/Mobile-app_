@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "657143978571",
+    "firebase_url": "https://gk-ltdd-b29a4-default-rtdb.firebaseio.com",
+    "project_id": "gk-ltdd-b29a4",
+    "storage_bucket": "gk-ltdd-b29a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657143978571:android:dfd90de0c8d6a1367ecbce",
+        "android_client_info": {
+          "package_name": "com.example.gk_ltdd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-4Iy-tmcy-cI0AzDCQsW3xbl96xJ9w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
